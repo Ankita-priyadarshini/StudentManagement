@@ -1,4 +1,4 @@
-student_name = "Admin"
+student_name = "User"
 city = "Hyderabad"
 
 print("Student Management System")
