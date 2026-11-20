@@ -1,5 +1,5 @@
 
-student_name = "Anya"
+student_name = "Samatha"
 
 city = "Chennai"
 
