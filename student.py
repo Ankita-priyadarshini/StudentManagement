@@ -1,4 +1,6 @@
+
 student_name = "User"
+
 city = "Hyderabad"
 
 print("Student Management System")
