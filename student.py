@@ -1,7 +1,7 @@
 
 student_name = "Anya"
 
-city = "Hyderabad"
+city = "Chennai"
 
 print("Student Management System")
 print(student_name)
